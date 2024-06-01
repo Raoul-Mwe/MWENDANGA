@@ -1,0 +1,15 @@
+header {
+    background-color: aqua;
+
+}
+
+#raoul-profile {
+    max-height: 100px;
+    border-radius: 50%;
+
+}
+
+footer {
+    text-align: center;
+    background-color: darkgrey;
+}
