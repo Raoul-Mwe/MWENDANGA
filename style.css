@@ -1,9 +1,13 @@
-header {
-    background-color: aqua;
+@media (319px <= width <= 430px) {
 
+    
 }
 
-.nav-bar {
+header {
+    background-color: aqua;
+}
+
+#nav-bar {
     border: 1px;
     border-color: black;
     background-color: coral;
